@@ -1,2 +1,2 @@
 # my-cite
-my-cite
+my-site
