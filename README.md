@@ -1,2 +1,2 @@
-# my-cite
+# my-site
 my-site
